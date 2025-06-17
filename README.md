@@ -1,7 +1,3 @@
-Of course! Here’s a detailed and professional `README.md` file for your **ImageCraft** project:
-
----
-
 # ImageCraft
 
 ![Image](https://github.com/SayantikaLaskar/AI-Image-Generator/blob/main/webimage.png?raw=true)
@@ -145,19 +141,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Harsh Shukla** and **Sayantika Laskar**
 
 > *Developed as a part of hackathon project & AI learning journey.*
+---
+
 > **Sayantika Laskar** - [LinkedIn](https://www.linkedin.com/in/sayantika-laskar) • [GitHub](https://github.com/sayantikalaskar)
 > **Harsh Shukla** - [LinkedIn](https://www.linkedin.com/in/harsh-shukla19) • [GitHub](https://github.com/Cyb3rGhoul)
 
 ---
 
----
-
-Would you like me to also generate:
-
-* ✅ **Badges for top of README (stars, license, etc.)**
-* ✅ **Markdown with placeholders for easy copy-paste**
-* ✅ **SEO-ready professional README version for public repositories**
-
-👉 If you say *"make it production ready"*, I can write you a polished README you can directly put on your GitHub.
-
-Shall I?
